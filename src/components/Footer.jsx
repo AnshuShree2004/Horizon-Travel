@@ -7,7 +7,7 @@ function Footer() {
         <>
             <footer className="footer p-10 bg-neutral text-neutral-content">
   <aside>
-     <SiYourtraveldottv  size={60} className='hover:text-emerald-700 text-white'/>
+     <SiYourtraveldottv  size={60} className='text-white'/>
     <p><span className='font-bold text-lg'>Horizon Travel</span><br/>
     Copyright 2023 |  All rights reserved</p>
   </aside> 
