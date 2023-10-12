@@ -4,7 +4,7 @@ function Nav () {
 
     return(
         <>
-        <nav className="navbar z-20 fixed top-0 px-10">
+        <nav className="navbar z-50 fixed top-0 px-10">
 
         <div className="navbar-start">
         <SiYourtraveldottv  size={30} className='text-white'/>
